@@ -1,0 +1,6 @@
+{
+  "name": "Ghost in the Campus - AI Mystery Game",
+  "description": "An interactive AI-powered campus mystery adventure featuring Gemma 4 multimodal investigation, dynamic ghost dialogue, campus puzzles, and multiple story endings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
